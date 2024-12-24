@@ -1,4 +1,4 @@
-```markdown
+
 # Enhancing Facial Recognition Accuracy
 
 ## General Notes
@@ -58,4 +58,3 @@
 ## 8. Test and Evaluate
 - **Validation**: Test on a large and diverse dataset to identify weaknesses.
 - **Metrics**: Use precision, recall, and F1-score to measure performance.
-```
